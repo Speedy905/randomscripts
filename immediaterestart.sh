@@ -2,4 +2,4 @@
 
 # This restarts the machine without any bs
 
-sudo restart now
+sudo reboot now
