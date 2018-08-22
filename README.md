@@ -12,7 +12,7 @@ immediateshutdown.sh
 This script allows me to shutdown my laptop/computer immeadiately without any waiting for programs
 to close.
 
-immediaterestarat.sh
+immediaterestart.sh
 --------------------
 
 Similar to [immediateshutdown](immediateshutdown.sh), it does the same thing excepts it restarts instead
