@@ -2,6 +2,8 @@
 
 #Pi temps
 
+#This checks the temp of the raspberry pi
+
 cpu=$(</sys/class/thermal/thermal_zone0/temp)
 echo "$(date) @ $(hostname)"
 echo "--------------------"
