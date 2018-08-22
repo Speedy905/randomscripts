@@ -9,5 +9,12 @@ Feel free to use these scripts under the MIT [license](LICENSE).
 immediateshutdown.sh
 --------------------
 
-This scripts allows me to shutdown my laptop/computer immeadiately without any waiting for programs
-to close. 
+This script allows me to shutdown my laptop/computer immeadiately without any waiting for programs
+to close.
+
+immediaterestarat.sh
+--------------------
+
+Similar to [immediateshutdown](immediateshutdown.sh), it does the same thing excepts it restarts instead
+of shutting down.
+ 
