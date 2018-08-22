@@ -23,7 +23,7 @@ infiniteloop.py
 
 This just prints an infinite loop of "Hello World." This means no purpose, but just for fun.
 
-pitemps.sh
+pitemp.sh
 ---------
 
 This checks the temps of my raspberry pi 3.  
