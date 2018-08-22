@@ -17,4 +17,8 @@ immediaterestarat.sh
 
 Similar to [immediateshutdown](immediateshutdown.sh), it does the same thing excepts it restarts instead
 of shutting down.
- 
+
+infiniteloop.py
+--------------
+
+This just prints an infinite loop of "Hello World." This means no purpose, but just for fun. 
