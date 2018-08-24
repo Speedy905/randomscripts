@@ -26,4 +26,10 @@ This just prints an infinite loop of "Hello World." This means no purpose, but j
 pitemp.sh
 ---------
 
-This checks the temps of my raspberry pi 3.  
+This checks the temps of my raspberry pi 3.
+
+
+discordbot_test.py
+------------------
+
+This is just testing of my own discord bot, getting to know how it works. 
