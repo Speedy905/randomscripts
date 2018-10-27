@@ -33,3 +33,9 @@ discordbot_test.py
 ------------------
 
 This is just testing of my own discord bot, getting to know how it works. 
+
+
+update.sh
+---------
+
+A one-click/command for me to update [Kamikaze94's WolfHud](https://github.com/Kamikaze94/WolfHUD) easily and quickly.
