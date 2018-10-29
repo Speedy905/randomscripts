@@ -1,5 +1,14 @@
 #!/bin/bash
 
-cd ~/pd2wolfhud/WolfHUD
+directory=~/pd2wolfhud/WolfHUD
 
-git pull
+if [ -d "$directory" ];
+then
+	echo "Directory exists. Doing update"
+	cd $directory
+	git pull
+else
+	echo "Directory unavailable."
+fi
+
+
