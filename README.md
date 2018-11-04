@@ -39,3 +39,8 @@ update.sh
 ---------
 
 A one-click/command for me to update [Kamikaze94's WolfHud](https://github.com/Kamikaze94/WolfHUD) easily and quickly.
+
+volumenotify.sh
+---------------
+
+A notification script that allows me to view the current volume on my laptop.
