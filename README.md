@@ -40,7 +40,14 @@ update.sh
 
 A one-click/command for me to update [Kamikaze94's WolfHud](https://github.com/Kamikaze94/WolfHUD) easily and quickly.
 
+
 volumenotify.sh
 ---------------
 
 A notification script that allows me to view the current volume on my laptop.
+
+systemupdate.sh
+---------------
+
+A script paired with crontab that updates my system every 1st day of the month. (I could have just listed the command while in crontab -e
+but I wanted to customize of how I would update the system)
