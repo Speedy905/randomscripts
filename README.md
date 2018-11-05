@@ -51,3 +51,8 @@ systemupdate.sh
 
 A script paired with crontab that updates my system every 1st day of the month. (I could have just listed the command while in crontab -e
 but I wanted to customize of how I would update the system)
+
+google-drive-sync.sh
+--------------------
+
+A script thats uses the grive command from [vitalif's grive2](https://github.com/vitalif/grive2) to sync my google drive in one command. (Aka using alias)
