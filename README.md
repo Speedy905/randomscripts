@@ -45,6 +45,8 @@ volumenotify.sh
 ---------------
 
 A notification script that allows me to view the current volume on my laptop.
+(Note: Since I switched to the XFCE DE, I have no need for this script anymore, although this can be used for DE that use
+the OpenBox Window Manager (i.e LXDE))
 
 systemupdate.sh
 ---------------
