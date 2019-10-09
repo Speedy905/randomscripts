@@ -12,7 +12,7 @@ immediateshutdown.sh
 This script allows me to shutdown my laptop/computer immeadiately without any waiting for programs
 to close.
 
-immediaterestart.sh
+immediaterestart.shhttps://www.google.ca/
 --------------------
 
 Similar to [immediateshutdown](immediateshutdown.sh), it does the same thing excepts it restarts instead
@@ -58,3 +58,8 @@ google-drive-sync.sh
 --------------------
 
 A script thats uses the grive command from [vitalif's grive2](https://github.com/vitalif/grive2) to sync my google drive in one command. (Aka using alias)
+
+thunderbirdstart.sh
+-------------------
+
+An Autostart script that delays the startup of thunderbird so that internet connectivity can be established.
