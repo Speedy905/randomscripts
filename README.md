@@ -63,3 +63,8 @@ thunderbirdstart.sh
 -------------------
 
 An Autostart script that delays the startup of thunderbird so that internet connectivity can be established.
+
+backup.sh
+---------
+
+A backup script that mostly uses [tPenguinLTG's script](https://github.com/tpenguinltg/scripts/blob/master/backup.sh) with some minor edits made.
