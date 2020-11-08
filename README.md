@@ -1,5 +1,5 @@
 # randomscripts
-These are scripts that I would use on my Linux System (or sometimes Windows if possible).
+These are scripts that I would use on my Linux System.
 These scripts are usually just a one time upload for archival/sharing purposes.
 These were uploaded here because I felt like these scripts didn't really need their own personal repo,
 hence why this repo allows me to freely upload them here. 
