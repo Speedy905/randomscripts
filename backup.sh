@@ -5,7 +5,6 @@
 
 destination="/mnt/backup"
 passphrase_check_file="${destination}/passphrase_check"
-file=check
 
 # needs root privileges to run
 if [ $(id -u) -ne 0 ]; then
@@ -16,12 +15,6 @@ fi
 # Proceed with backup only if backum medium is present
 if [ ! -d "$destination" ]; then
   echo 'ERROR: Backup medium not found!' >&2;
-  exit 1
-fi
-
-# Proceed if the file is present to make sure it is fully mounted
-if [ ! -f "$file" ]; then
-  echo 'File not present. Make sure it is fully mounted' >&2;
   exit 1
 fi
 
